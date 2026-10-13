@@ -1,0 +1,1 @@
+# -Generating-Pascal-Triangle-Pyramid-of-Numbers.
